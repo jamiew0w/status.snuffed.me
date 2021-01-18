@@ -24,6 +24,6 @@ status-website:
   name: status.snuffed.me
 
   i18n:
-  footer: This page is [open source]($REPO).
+    footer: This page is [open source]($REPO).
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
