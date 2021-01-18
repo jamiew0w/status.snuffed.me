@@ -1,6 +1,6 @@
 # [📈 Live Status](https://status.snuffed.me): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [jamie ryan](jamie.ie), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [jamiew0w](jamie.ie), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/jamiew0w/status.snuffed.me/workflows/Uptime%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/jamiew0w/status.snuffed.me/workflows/Response%20Time%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -29,5 +29,5 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [jamie ryan](jamie.ie)
+- Code: [MIT](./LICENSE) © [jamiew0w](jamie.ie)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
