@@ -8,6 +8,7 @@ sites:
     url: https://snuffed.me
   - name: tools.snuffed.me
     url: https://tools.snuffed.me
+    icon: https://tools.snuffed.me/static/favicon.png
   - name: sp.snuffed.me
     url: https://sp.snuffed.me
   - name: buyback.snuffed.me
