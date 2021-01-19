@@ -28,7 +28,7 @@ status-website:
   name: status.snuffed.me
 
 i18n:
-  footer:
+  footer: <a href="https://snuffed.me" target="_blank">snuffed.me</a>
 
 workflowSchedule:
   graphs: "*/5 * * * *"
