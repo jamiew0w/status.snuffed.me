@@ -2,6 +2,9 @@
 owner: jamiew0w
 repo: status.snuffed.me
 
+status-page:
+  theme: "dark"
+  
 # Add your sites here
 sites:
   - name: snuffed.me
