@@ -1,9 +1,6 @@
 # Change these first
 owner: jamiew0w
 repo: status.snuffed.me
-
-status-page:
-  theme: "dark"
   
 # Add your sites here
 sites:
@@ -29,6 +26,7 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: status.snuffed.me
+  theme: "dark"
 
 i18n:
   footer: <a href="https://snuffed.me" target="_blank">snuffed.me</a>
