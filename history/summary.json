@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/snuffed.me",
     "slug": "snuffed-me",
     "status": "up",
-    "uptime": "98.20%",
+    "uptime": "98.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.37%",
-    "uptimeMonth": "98.20%",
-    "uptimeYear": "98.20%",
-    "time": 1708,
-    "timeDay": 1433,
-    "timeWeek": 1660,
-    "timeMonth": 1708,
-    "timeYear": 1708,
+    "uptimeMonth": "98.21%",
+    "uptimeYear": "98.21%",
+    "time": 1707,
+    "timeDay": 1426,
+    "timeWeek": 1657,
+    "timeMonth": 1707,
+    "timeYear": 1707,
     "dailyMinutesDown": {
       "2021-01-29": 366
     }
@@ -31,8 +31,8 @@
     "uptimeMonth": "98.21%",
     "uptimeYear": "98.21%",
     "time": 715,
-    "timeDay": 590,
-    "timeWeek": 692,
+    "timeDay": 582,
+    "timeWeek": 690,
     "timeMonth": 715,
     "timeYear": 715,
     "dailyMinutesDown": {
@@ -50,11 +50,11 @@
     "uptimeWeek": "96.40%",
     "uptimeMonth": "98.22%",
     "uptimeYear": "98.22%",
-    "time": 665,
-    "timeDay": 584,
-    "timeWeek": 647,
-    "timeMonth": 665,
-    "timeYear": 665,
+    "time": 664,
+    "timeDay": 582,
+    "timeWeek": 645,
+    "timeMonth": 664,
+    "timeYear": 664,
     "dailyMinutesDown": {
       "2021-01-29": 363
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1239,
-    "timeDay": 1010,
-    "timeWeek": 1218,
-    "timeMonth": 1239,
-    "timeYear": 1239,
+    "time": 1238,
+    "timeDay": 1003,
+    "timeWeek": 1217,
+    "timeMonth": 1238,
+    "timeYear": 1238,
     "dailyMinutesDown": {}
   },
   {
@@ -90,7 +90,7 @@
     "uptimeYear": "100.00%",
     "time": 676,
     "timeDay": 534,
-    "timeWeek": 658,
+    "timeWeek": 656,
     "timeMonth": 676,
     "timeYear": 676,
     "dailyMinutesDown": {}
