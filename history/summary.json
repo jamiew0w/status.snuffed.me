@@ -5,20 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/snuffed.me",
     "slug": "snuffed-me",
     "status": "up",
-    "uptime": "99.34%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.15%",
-    "uptimeYear": "99.34%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1505,
-    "timeDay": 1337,
+    "timeDay": 1342,
     "timeWeek": 1491,
     "timeMonth": 1475,
     "timeYear": 1505,
-    "dailyMinutesDown": {
-      "2021-02-26": 5,
-      "2021-01-29": 366
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "tools.snuffed.me",
@@ -26,19 +23,17 @@
     "icon": "https://tools.snuffed.me/static/favicon.png",
     "slug": "tools-snuffed-me",
     "status": "up",
-    "uptime": "99.35%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.17%",
-    "uptimeYear": "99.35%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 601,
-    "timeDay": 526,
+    "timeDay": 528,
     "timeWeek": 565,
     "timeMonth": 583,
     "timeYear": 601,
-    "dailyMinutesDown": {
-      "2021-01-29": 364
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "sp.snuffed.me",
@@ -46,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/sp.snuffed.me",
     "slug": "sp-snuffed-me",
     "status": "up",
-    "uptime": "99.36%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.17%",
-    "uptimeYear": "99.36%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 593,
-    "timeDay": 534,
+    "timeDay": 537,
     "timeWeek": 584,
     "timeMonth": 582,
     "timeYear": 593,
-    "dailyMinutesDown": {
-      "2021-01-29": 363
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "buyback.snuffed.me",
@@ -72,7 +65,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1075,
-    "timeDay": 950,
+    "timeDay": 953,
     "timeWeek": 1062,
     "timeMonth": 1051,
     "timeYear": 1075,
@@ -90,7 +83,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 596,
-    "timeDay": 517,
+    "timeDay": 519,
     "timeWeek": 585,
     "timeMonth": 583,
     "timeYear": 596,
