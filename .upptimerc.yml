@@ -16,9 +16,11 @@ sites:
   - name: structures.snuffed.me
     url: https://structures.snuffed.me
   - name: auth.snuffed.me
-    url: https://auth.snuffed.me
+    url: https://auth.snuffed.m
+    icon: https://tools.snuffed.me/static/favicon.png
   - name: seat.snuffed.me
     url: https://seat.snuffed.me
+    icon: https://tools.snuffed.me/static/favicon.png
 
 assignees:
   - jamiew0w
