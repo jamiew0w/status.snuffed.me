@@ -6,16 +6,17 @@
     "slug": "snuffed-me",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.16%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.15%",
     "uptimeYear": "99.34%",
     "time": 1507,
-    "timeDay": 1538,
-    "timeWeek": 1491,
+    "timeDay": 1524,
+    "timeWeek": 1489,
     "timeMonth": 1479,
     "timeYear": 1507,
     "dailyMinutesDown": {
+      "2021-02-26": 5,
       "2021-01-29": 366
     }
   },
@@ -33,7 +34,7 @@
     "time": 602,
     "timeDay": 564,
     "timeWeek": 563,
-    "timeMonth": 586,
+    "timeMonth": 585,
     "timeYear": 602,
     "dailyMinutesDown": {
       "2021-01-29": 364
@@ -51,8 +52,8 @@
     "uptimeMonth": "99.17%",
     "uptimeYear": "99.35%",
     "time": 594,
-    "timeDay": 647,
-    "timeWeek": 585,
+    "timeDay": 642,
+    "timeWeek": 586,
     "timeMonth": 583,
     "timeYear": 594,
     "dailyMinutesDown": {
@@ -71,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1077,
-    "timeDay": 1081,
+    "timeDay": 1069,
     "timeWeek": 1064,
-    "timeMonth": 1057,
+    "timeMonth": 1056,
     "timeYear": 1077,
     "dailyMinutesDown": {}
   },
@@ -89,9 +90,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 597,
-    "timeDay": 617,
+    "timeDay": 611,
     "timeWeek": 587,
-    "timeMonth": 586,
+    "timeMonth": 585,
     "timeYear": 597,
     "dailyMinutesDown": {}
   }
