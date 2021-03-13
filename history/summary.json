@@ -4,7 +4,7 @@
     "url": "https://snuffed.me",
     "icon": "https://favicons.githubusercontent.com/snuffed.me",
     "slug": "snuffed-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,7 +13,7 @@
     "time": 1487,
     "timeDay": 1207,
     "timeWeek": 1186,
-    "timeMonth": 1421,
+    "timeMonth": 1424,
     "timeYear": 1487,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 591,
     "timeDay": 468,
     "timeWeek": 508,
-    "timeMonth": 548,
+    "timeMonth": 549,
     "timeYear": 591,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 1054,
     "timeDay": 886,
     "timeWeek": 946,
-    "timeMonth": 997,
+    "timeMonth": 998,
     "timeYear": 1054,
     "dailyMinutesDown": {}
   },
