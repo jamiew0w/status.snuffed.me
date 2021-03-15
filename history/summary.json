@@ -67,7 +67,7 @@
     "time": 1054,
     "timeDay": 814,
     "timeWeek": 829,
-    "timeMonth": 1003,
+    "timeMonth": 1002,
     "timeYear": 1054,
     "dailyMinutesDown": {}
   },
@@ -112,17 +112,17 @@
     "url": "https://seat.snuffed.me",
     "icon": "https://tools.snuffed.me/static/favicon.png",
     "slug": "seat-snuffed-me",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1410,
-    "timeDay": 996,
-    "timeWeek": 1128,
-    "timeMonth": 1410,
-    "timeYear": 1410,
+    "time": 1411,
+    "timeDay": 1175,
+    "timeWeek": 1159,
+    "timeMonth": 1411,
+    "timeYear": 1411,
     "dailyMinutesDown": {}
   }
 ]
